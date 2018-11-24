@@ -1,5 +1,4 @@
-*.py
-*~_
+*.py_
 myenv
 db.sqlite3
 /static
