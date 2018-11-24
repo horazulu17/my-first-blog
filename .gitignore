@@ -1,6 +1,5 @@
 *.py
-*~
-__pycache__
+*~_
 myenv
 db.sqlite3
 /static
